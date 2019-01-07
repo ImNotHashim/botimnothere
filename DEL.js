@@ -52,8 +52,7 @@ msg.author.sendMessage(`**
 =>> Public Cmd <<=
 ====><=====
 ${prefix}avatar < Mention > يعرضلك صوره البروفايل الخاصه بك او الشخص الي تمنشنه
-${prefix}id يعرضلك معلوماتك
-${prefix}ownerbot يعرضلك رئس البوت
+${prefix}id يعرضلك معلوماتك  
 ${prefix}embed لجعل البوت يكتب كلام بامبد
 ====><=====
 ${prefix}ping يعرضلك سرعة استجابة البوت في الوقت الحالي    
