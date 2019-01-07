@@ -46,7 +46,7 @@ ${prefix}roles يوريك الرتب كلها في السيرفر
 });
 
 client.on("message", msg => {
-if(msg.content === "$help") {
+if(msg.content === "%help") {
 msg.channel.send('**تم ارسال رسالة في الخاص**');
 msg.author.sendMessage(`**
 =>> Public Cmd <<=
