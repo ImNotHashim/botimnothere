@@ -3,8 +3,8 @@ const client = new Discord.Client();
 const moment = require("moment");
 const yt = require('ytdl-core');
 const fs = require("fs");
-const prefix = "%;
-const PREFIX = "%;
+const prefix = "%";
+const PREFIX = "%";
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`%help | %inv |  ${client.guilds.size} servers! `,"http://twitch.tv/S-F")
